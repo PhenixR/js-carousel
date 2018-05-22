@@ -1,0 +1,11 @@
+.carousel {
+}
+.slide_box {
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    position: relative;
+}
+.slide_item {
+    position: relative;
+}
